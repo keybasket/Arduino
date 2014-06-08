@@ -2,7 +2,9 @@
  Creado por Ramón Arjona Quiñones y Andrea Fernández García, 4ºESO del instituto IES Vicente Aleixandre, Sevilla
  Profesor: José Pujol 
  
- El programa funciona como un coche teledirigido desde el móvil, que envía bits a Arduino para que el coche funcione. Hecho con el software y hardware libre de Arduino.*/
+ El programa funciona como un coche teledirigido desde el móvil, que envía bits a Arduino 
+ para que el coche funcione. Hecho con el software y hardware libre de Arduino.*/
+
 // Variables de motores:
 int inA = 4; //Los cuatro “in” son  los pines a los que va conectado el motor driver
 int inB = 5; 
